@@ -15,4 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Меня зовут Егор, и я ML Engineer
+:boom: Меня зовут Егор, и я ML Engineer.
+
+:pencil2: В список моих интересов входит работа с LLM-ками и агентами. Также мне интересна работа с базами данных, разработка и поддержка витрин данных и аналитика.
+
+## :memo: Мой основной стек:  
+- Python, SQL
+- **Big Data**: Hadoop, Spark, hue, hive, polars
+- **ML**: Scikit-learn, pandas, numpy
+- **DL**: PyTorch, Transformers, PEFT
+- **Infrastructure**: Docker, Linux, MLflow 
+
+## Моё резюме
+:arrow_forward: [Ссылка](https://github.com/user-attachments/files/34360313/nlp_engineer.pdf)
+
+
